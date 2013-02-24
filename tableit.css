@@ -1,0 +1,71 @@
+/* 
+   Copyright 2012 Dave Bacon
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+*/
+
+
+.tableit-pager {
+}
+
+.tableit-navbutton {
+	background: #fefefe;
+}
+
+.tableit-container {
+	margin-top: 0.5em;
+	margin-bottom: 1em;
+}
+
+.tableit-table {
+    border-collapse: collapse;
+   	border-bottom: double #c0c0f0;
+}
+
+.tableit-table td {
+    padding: 0.2em;
+}
+
+.tableit-headerRow {
+	border-top: double #c0c0f0;
+	border-bottom: solid #c0c0f0;
+	background: #f0f0ff;
+}
+
+.tableit-headerCell {
+	color: #9090b0;
+	font-size: larger;
+	text-shadow: 0.1em 0.1em 0.1em black;
+	font-weight: bold;
+}
+
+.tableit-sorter {
+	font-size: x-small;
+	padding-left: 1em;
+	color: red;
+	text-shadow: none;
+}
+
+.tableit-rowOdd {
+}
+
+.tableit-rowEven {
+	background: #f8f8ff;
+}
+
+.tableit-dataRow {
+	border-bottom: solid 1px #e0e0e0;
+}
+
+.tableit-dataCell {
+}
